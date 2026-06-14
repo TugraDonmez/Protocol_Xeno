@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Third party assets (internetten indirilen paketler)
+Content/HorrorBunker/
+Content/ModularScifiStation/
+Content/QA_Office/
+Content/Underground_Bunker/
